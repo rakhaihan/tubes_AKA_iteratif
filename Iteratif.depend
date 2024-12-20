@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1734702108 source:d:\education\university\telkom\mulai kuliah\smt 3\aka\tubes\1 a paling fix\algoritma\iteratif\iteratif\main.cpp
+	<windows.h>
+	<vector>
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+
+1734700715 source:d:\education\university\telkom\mulai kuliah\smt 3\aka\tubes\1 a paling fix\algoritma\iteratif\iteratif\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1734700715 d:\education\university\telkom\mulai kuliah\smt 3\aka\tubes\1 a paling fix\algoritma\iteratif\iteratif\resource.h
+
